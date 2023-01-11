@@ -18,9 +18,11 @@
 
 **CARGA HORARIA:** 120 horas (Lic. en Ciencias de la Computación) / 165 horas (Prof. en Matemática)
 
+<h3>
 ``` sh 
-<h3>FUNDAMENTACIÓN Y OBJETIVOS<h3> 
+FUNDAMENTACIÓN Y OBJETIVOS 
 ```
+<h3>
 
 Fundamentación:
 
