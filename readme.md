@@ -1,4 +1,7 @@
-﻿5678 1234![](Aspose.Words.eb3e1ec5-ca23-44fd-8f96-8554971e9526.001.png)
+﻿5678 1234
+
+[Facultad de Matemática, Astronomía, Física y Computación - FaMaF - UNC](https://www.famaf.unc.edu.ar/)
+
 <center> <h3> PROGRAMA DE ASIGNATURA <h3> </center>
 
 **ASIGNATURA:** Introducción a la Lógica y la Computación
@@ -15,7 +18,9 @@
 
 **CARGA HORARIA:** 120 horas (Lic. en Ciencias de la Computación) / 165 horas (Prof. en Matemática)
 
-<center> <h3> FUNDAMENTACIÓN Y OBJETIVOS <h3> </center>
+``` sh 
+FUNDAMENTACIÓN Y OBJETIVOS 
+```
 
 Fundamentación:
 
@@ -79,7 +84,9 @@ B. Davey, H. Priestley, "Introduction to Lattices and Order", Cambridge Universi
 
 Jeffrey Ullman; John Hopcroft; Rajeev Motwani. ''Introducción a la teoría de autómatas, lenguajes y computación''. Prentice Hall, 2002.
 
-D. Van Dalen, "Logic and Structure". Springer Verlag, Berlin. **EVALUACIÓN!**
+D. Van Dalen, "Logic and Structure". Springer Verlag, Berlin.
+
+<center> <h3> EVALUACIÓN <h3> </center>
 
 **FORMAS DE EVALUACIÓN**
 
