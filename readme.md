@@ -2,6 +2,8 @@
 
 [Facultad de Matemática, Astronomía, Física y Computación - FaMaF - UNC](https://www.famaf.unc.edu.ar/)
 
+[Wiki](https://cs.famaf.unc.edu.ar/~pedro/introlog2021/)
+
 <center> <h3> PROGRAMA DE ASIGNATURA <h3> </center>
 
 **ASIGNATURA:** Introducción a la Lógica y la Computación
