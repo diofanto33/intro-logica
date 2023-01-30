@@ -1,2 +1,5 @@
-* https://planetmath.org/maximallyconsistent
-* https://archive.illc.uva.nl/Tbilisi/Tbilisi2011/uploaded_files/mediaitem/Marra2.pdf
+* Topic hard https://planetmath.org/maximallyconsistent
+
+* The best ever https://woolen-pisces-df4.notion.site/Intro-a-la-L-gica-y-la-Computaci-n-4aa4a44d67d648128102a05460ee0a00
+
+* For later https://archive.illc.uva.nl/Tbilisi/Tbilisi2011/uploaded_files/mediaitem/Marra2.pdf
